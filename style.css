@@ -15,7 +15,6 @@ header { //Set the navigation bar
   position: fixed;
   top: 0;
   left: 0;
-  background: white;
-  //opacity: 100%;
+  background: gray;
 }
 
