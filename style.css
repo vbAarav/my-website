@@ -10,7 +10,7 @@ html { // Set the scroll animation to smooth
 }
 
 body {
-  background: black:
+  background: black;
 }
 
 header { //Set the navigation bar
@@ -20,9 +20,9 @@ header { //Set the navigation bar
   top: 0;
   left: 0;
   background: white;
-  opacity: 80%
+  opacity: 80%;
 }
 
 nav {
-  
+  width: 100%;
 }
