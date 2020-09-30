@@ -18,3 +18,7 @@ header { //Set the navigation bar
   background: gray;
   opacity: 80%;
 }
+
+nav{
+  text-decoration: none;
+}
