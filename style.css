@@ -1,15 +1,19 @@
-*{ // Remove Margins and Padding
+* { // Remove Margins and Padding
   margin: 0;
   padding: 0;
   
 }
 
-html{ // Set the scroll animation to smooth
+html { // Set the scroll animation to smooth
   scroll-behavior: smooth;
   
 }
 
-header{ //Set the navigation bar
+body {
+  background: black:
+}
+
+header { //Set the navigation bar
   width: 100%;
   height: 100px;  
   position: fixed;
@@ -19,3 +23,6 @@ header{ //Set the navigation bar
   opacity: 80%
 }
 
+nav {
+  
+}
